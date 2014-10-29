@@ -1,0 +1,12 @@
+name: RandomCoords
+main: com.jolbol1.Random.RandomCoords
+version: 2.1.0
+website: http://bukkit.org
+author: Jolbol1
+softdepend: [Factions, MassiveCore]
+description: >
+             Get away quick with a random coordinate.
+commands:
+  rc:
+    description: Teleport to a random coordinate.
+    usage: /<command>

@@ -1,0 +1,8 @@
+MaxCoordinate: 1000
+MinCoordinate: 0
+Cooldown: 5
+TimeBeforeTeleport: 5
+SignCooldown: false
+Factions: true
+OnJoin: false
+Economy: true
